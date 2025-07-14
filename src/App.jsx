@@ -3,7 +3,7 @@ import productsData from './data/product.js';
 import Header from './components/Header'
 import SearchBar from "./components/SearchBar.jsx";
 import Filter from "./components/Filter.jsx"
-import Sort from './components/sort.jsx';
+import Sort from './components/Sort.jsx';
 import ProductList from './components/ProductList.jsx';
 
 
